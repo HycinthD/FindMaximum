@@ -48,8 +48,10 @@ def max_marks(marks):
 1)
 ![alt text](<Screenshot (191).png>)
 
+
 2)
 ![alt text](<Screenshot (192).png>)
+
 
 3)
 ![alt text](<Screenshot (193).png>)
